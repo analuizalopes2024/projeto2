@@ -1,1 +1,13 @@
-# projeto2
+### Olá Seja bem vindo ao meu perfil
+
+Meu nome é Ana Luiza Lopes
+
+-Estou estudando Alura
+- Estou me desenvolvendo na Linguagem JavaScript
+- Utilizo este espaço para minha organzação e comaprtilhamento dos meus projetos.
+
+  Você pode entrar em contato comigo pelo📫
+
+  00001113850140sp@al.educacao.sp.gov.br
+
+  ![](https://tenor.com/pt-BR/view/naruto-gif-19427546)
